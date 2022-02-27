@@ -1,7 +1,6 @@
 # Battering-Ram-Microactuator-POLYMUMPs
 
-![image](https://user-images.githubusercontent.com/89353805/155899040-0838bc94-416b-47ac-9f01-7479f7b60b7d.png) ![image](https://user-images.githubusercontent.com/89353805/155899066-be443a46-84e1-4278-b1e7-5ae5fa264d13.png)
-
+![image](https://user-images.githubusercontent.com/89353805/155899040-0838bc94-416b-47ac-9f01-7479f7b60b7d.png)
 Material Layer	Thickness (µm)	Lithography Level Name
 Nitride	          0.6	                    --
 Poly 0	           0.5	              POLY0 (HOLE0)
